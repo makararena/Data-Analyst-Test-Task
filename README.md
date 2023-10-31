@@ -1,6 +1,6 @@
 # Test-Task
-Data - folder with all data used in my assignment
+1. Data - folder with all data used in my assignment
 
-Solution - is main file 
+2. Solution - is the main file 
 
-Plots - folder with all plots in .png format
+3. Plots - folder with all plots in .png format
