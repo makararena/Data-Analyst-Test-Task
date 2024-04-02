@@ -3,3 +3,5 @@
 2. Solution - is the main file 
 
 3. Plots - folder with all plots in .png format
+
+4. paper.pdf - paper of the project in pdf format
